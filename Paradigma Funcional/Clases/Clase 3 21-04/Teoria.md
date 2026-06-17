@@ -104,3 +104,10 @@ categoriaEdad edad
 > Usar pattern matching cuando: importa la forma de parametro
 > Las guardas extienden el pattern matching cuando la decision no depende solo de la forma, sino de propiedades del valor.
 
+## Pattern Matching
+
+>Es un mecanismo del paradigma funcional que permite descomponer un valor comparándolo con patrones estructurales, y ejecutar la rama cuyo patrón coincida.No es una comparación de igualdad como un if, sino una inspección de la forma del dato.
+~~~
+
+
+~~~
